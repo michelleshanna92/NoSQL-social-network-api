@@ -1,15 +1,3 @@
-# NoSQL-Social-Network-API
-Module 18 Challenge
-
-## Table of Contents
-
-- [Description](#description)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [Features](#features)
-- [License](#license)
-
 ## Description
 
 ### User Story
